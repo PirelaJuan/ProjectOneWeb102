@@ -1,8 +1,23 @@
-# React + Vite
+Web Development Project 1 - Community Board
+Created using Reat & Vite.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Submitted by: Juan Pirela
 
-Currently, two official plugins are available:
+This web app: This website lists typical food places and events that are held during different months. Each event is labeled by its date, and you can visit the website for more information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Time spent: 3 hours spent in total
+
+Required Features
+The following required functionality is completed:
+
+[X] Create a unique theme for events or resources relevant to a specific community
+[x] Display at least 10 unique resources or events in a responsive
+card format
+
+Stretch Features
+[] Add buttons or links to a related resource on each card component
+[x] Make the site responsive for both desktop and mobile formats
+
+Video Walkthrough
+Here's a walkthrough of implemented required features:
+<img src='src/assets/Project1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
